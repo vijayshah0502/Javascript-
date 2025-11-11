@@ -2,13 +2,13 @@
 //switch case
 //early return patterns
 
-// if(2 < 5) {
-//     console.log("right");
+if(2 < 5) {
+    console.log("right");
     
-// }else {
-//     console.log("wrong");
+}else {
+    console.log("wrong");
     
-// }
+}
 
 
 // switch (3) {

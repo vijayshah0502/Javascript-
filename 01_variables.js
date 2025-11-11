@@ -4,28 +4,28 @@
 // const a = 12;
 // a =12;
 // let a;
-// //const a; //error
+//const a; //error
 
 
 //block, global, functional
 // {
-//     const a =12;
+//     let a =12;
 // }
-
 // console.log(a);
 
-// function abc() {
-//     if (true) {
-//          var a = 12;
-//     }
-   
-// }
-//  console.log(a);
 
-// abc()
+function abc() {
+    if (true) {
+         var a = 12;
+    }
+    console.log(a);
+}
 
 
-// var a = 12;
+abc()
+
+
+// const a = 12;
 
 // {
 //     console.log(a);
@@ -60,10 +60,10 @@
 
 
 //Qs
-let a = 10;
-{
-    let a =20;
-    console.log(a);
+// let a = 10;
+// {
+//     let a =20;
+//     console.log(a);
     
-}
-console.log(a);
+// }
+// console.log(a);

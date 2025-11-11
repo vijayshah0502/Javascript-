@@ -3,4 +3,4 @@
               //[], {}, ()
 
 let a = null // null value janmujkar deta he, kyoki bad me usea change kar sake..
-let b; // udefined- vale dech nhi hen
+let b; // udefined- value detch nhi hen
